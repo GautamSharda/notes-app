@@ -1,2 +1,2 @@
 # notes-app
-Demo here: https://morning-atoll-21303.herokuapp.com/
+Demo here (may have to wait a few seconds for load): https://morning-atoll-21303.herokuapp.com/
